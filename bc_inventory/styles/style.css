@@ -1,0 +1,28 @@
+.bg_table{
+
+    background-color: #20B2AA;
+    color: white;
+
+}
+.colum_table{
+
+    
+
+        word-wrap:break-word;
+        width: 20px;
+            overflow: hidden;
+       
+    
+}
+.add_table{
+margin-left: 20%;
+margin-right: 20%;
+
+}
+.tt_add{
+   
+
+
+
+    color:	#4682B4;
+}
